@@ -3,7 +3,7 @@ PodCast feito por IA, para uma aula sobre prompt engineer da empresa DIO
 
 <img src="src/Gemini_Generated_Image_9xepar9xepar9xep.png" width="1000">
 
-[Áudio do PodCast](src/ElevenLabs_2025-06-10T17_19_01_Rachel_pre_sp100_s50_sb75_v3.mp3)
+[Áudio do PodCast](ElevenLabs_2025-06-10T17_19_01_Rachel_pre_sp100_s50_sb75_v3.mp3)
 
 ```
 (Início da música tema do podcast, vinheta de 5 segundos, diminuindo o volume até sumir)
