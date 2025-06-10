@@ -1,6 +1,8 @@
 # PodCast_API
 PodCast feito por IA, para uma aula sobre prompt engineer da empresa DIO
 
+[PodCast Image](src/Gemini_Generated_Image_9xepar9xepar9xep.png)
+
 ```
 (Início da música tema do podcast, vinheta de 5 segundos, diminuindo o volume até sumir)
 
